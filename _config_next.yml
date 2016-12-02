@@ -277,7 +277,7 @@ mathjax:
 #duoshuo_shortname:
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: testcorner
 
 # Hypercomments
 #hypercomments_id:
@@ -292,7 +292,7 @@ mathjax:
 # Share
 #jiathis:
 # Warning: JiaThis does not support https.
-#add_this_id:
+add_this_id: ra-5840bdc99cb51835
 
 # Share
 #duoshuo_share: true
