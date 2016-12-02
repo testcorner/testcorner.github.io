@@ -8,6 +8,8 @@ tags: [event]
 
 不曉得是怎麼開始了這個話題，我們似乎該把台灣的 QA 跟 Test Developer 都聚集起來，在台灣似乎沒有這樣一個_跨公司 QA 交流_的園地？所以，Test Corner 就這樣從一個 [FB 社團][fb] 開始了 ~
 
+<!-- more -->
+
 ![STAREAST 2015 相遇](/images/stareast-2015-meetup.jpg)
 
 (圖片來源：[FB 社團第一則貼文][1st-post])
