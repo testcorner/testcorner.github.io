@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next muse use-motion" lang="zh-tw">
+<html class="theme-next pisces use-motion" lang="zh-tw">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -68,7 +68,7 @@
 <link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Hexo, NexT" />
+  <meta name="keywords" content="軟體測試, 軟體工程, 測試, 自動化測試" />
 
 
 
@@ -112,7 +112,7 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Muse',
+    scheme: 'Pisces',
     sidebar: {"position":"left","display":"post"},
     fancybox: true,
     motion: true,
@@ -207,6 +207,16 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
         </li>
       
         
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            關於
+          </a>
+        </li>
+      
+        
         <li class="menu-item menu-item-archives">
           <a href="/archives" rel="section">
             
@@ -289,6 +299,13 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
           
   <div class="comments" id="comments">
     
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
+    
   </div>
 
 
@@ -314,7 +331,7 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
       <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
-               src="/images/avatar.gif"
+               src="http://testcorner.github.io/images/logo.png"
                alt="Test Corner" />
           <p class="site-author-name" itemprop="name">Test Corner</p>
           <p class="site-description motion-element" itemprop="description">一個跨公司交流測試工程的園地</p>
@@ -343,6 +360,80 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
         
 
         <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://www.facebook.com/groups/test.corner/" target="_blank" title="Facebook">
+                  
+                    <i class="fa fa-fw fa-facebook-official"></i>
+                  
+                  Facebook
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.youtube.com/channel/UCv3jyotTJNKhkDyvB6_fvIA" target="_blank" title="YouTube">
+                  
+                    <i class="fa fa-fw fa-youtube"></i>
+                  
+                  YouTube
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://www.flickr.com/photos/testcorner/" target="_blank" title="Flickr">
+                  
+                    <i class="fa fa-fw fa-flickr"></i>
+                  
+                  Flickr
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/testcorner" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://twitter.com/testcorner" target="_blank" title="Twitter">
+                  
+                    <i class="fa fa-fw fa-twitter"></i>
+                  
+                  Twitter
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://testcorner.herokuapp.com/" target="_blank" title="Slack">
+                  
+                    <i class="fa fa-fw fa-slack"></i>
+                  
+                  Slack
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://calendar.google.com/calendar/embed?src=test.corner.sqa%40gmail.com&ctz=Asia/Taipei" target="_blank" title="GCal">
+                  
+                    <i class="fa fa-fw fa-calendar"></i>
+                  
+                  GCal
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="https://testcorner.hackpad.com/" target="_blank" title="Hackpad">
+                  
+                    <i class="fa fa-fw fa-book"></i>
+                  
+                  Hackpad
+                </a>
+              </span>
+            
           
         </div>
 
@@ -387,7 +478,7 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
 <div class="theme-info">
   主題 -
   <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-    NexT.Muse
+    NexT.Pisces
   </a>
 </div>
 
@@ -454,6 +545,13 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
   
   
 
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.0"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.0"></script>
+
+
+
   
 
   
@@ -469,10 +567,35 @@ Test Corner 是一個開放的平台，目的是讓「對測試有想法的工�
 
   
 
+    <script type="text/javascript">
+      var disqus_shortname = 'testcorner';
+      var disqus_identifier = 'about/index.html';
+
+      var disqus_title = "Test Corner - 轉角。遇到測試。";
 
 
+      function run_disqus_script(disqus_script) {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      }
 
-	
+      run_disqus_script('count.js');
+
+      
+        var disqus_config = function () {
+            this.page.url = disqus_url;
+            this.page.identifier = disqus_identifier;
+            this.page.title = disqus_title;
+        };
+        run_disqus_script('embed.js');
+      
+
+    </script>
+  
+
 
 
 
