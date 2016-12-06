@@ -1,5 +1,5 @@
 ---
-title: Test Corner #7 @ cacaFly
+title: "Test Corner #7 @ cacaFly"
 date: 2016-12-06 10:00:00
 tags: [event]
 ---
