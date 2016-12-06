@@ -51,7 +51,7 @@ tags: [event]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtrsPNpmGCU?rel=0&start=130&end=2670" frameborder="0" allowfullscreen></iframe>
 
 ![Mark 與 Nadia](/images/testcorner-7/mark-n-nadia.jpg)
-<i class="fa fa-camera"></i> Mark (左) 與 Nadia (右) | 拍攝者：[Dino Su][dino]
+<i class="fa fa-camera"></i> Mark (右) 與 Nadia (左) | 拍攝者：[Dino Su][dino]
 
 ## Jenkins & Slack 協作
 
@@ -84,6 +84,8 @@ William | 拍攝者：[Can Yu][can]
  * [活動花蕠 (Can Yu)](https://www.facebook.com/groups/test.corner/permalink/1466587910025780/)
  * [活動花蕠 (Dino Su)](https://www.facebook.com/groups/test.corner/permalink/1466577033360201/)
 
+-- by [Jeremy Kao](https://www.facebook.com/jeremy.kao.tw)
+
  [kktix]: http://testcorner.kktix.cc/events/testcorner7
  [event-fb]: https://www.facebook.com/events/218813881879288/
  [hanyu]: https://www.facebook.com/ryan.chen.518
@@ -92,7 +94,7 @@ William | 拍攝者：[Can Yu][can]
  [chloe]: https://www.facebook.com/chloe.chen.727
  [mark]: https://www.facebook.com/Jz.Chang.Mark
  [nadia]: https://www.facebook.com/yuchieh.lin.90
- [william]: https://www.facebook.com/william.yin
+ [william]: https://www.facebook.com/william.yin.54
  [vincent]: https://www.facebook.com/vincentliao.sky
  [hlb]: https://www.facebook.com/iamhlb
  [zonble]: https://www.facebook.com/zonble
