@@ -16,17 +16,17 @@ tags: [event]
 首先謝謝所有促成這次活動的大家：
 
  * [布丁][hlb]、[Vincent][]、Fin 幫忙居間協調場地。
- * [Can][can] 及 [Dino][] 幫忙拍照，專業的就是不一樣。
+ * [Can][can] 及 善心人士 幫忙拍照，專業的就是不一樣。
  * [Chloe][] 幫忙錄影直播，這次還會動態地把鏡頭帶到講話的人，越來越專業了。
  * 最重要的 3 位講者 [Mark Chang][mark]、[Nadia Lin][nadia]、[William Yin][william]。
 
-這次活動的場地由 [cacaFly][] 提供，謝謝布丁幫忙仔細地介紹場地。
+感謝 [cacaFly][] 提供這次的活動場地。
 
 ![場地](/images/testcorner-7/meetup.jpg)
 <i class="fa fa-camera"></i> 活動場地 | 拍攝者：[Can Yu][can]
 
 ![Can 與布丁](/images/testcorner-7/can-n-hlb.jpg)
-<i class="fa fa-camera"></i> 攝影師 Can Yu (左) 與布丁 (右) | 拍攝者：[Dino Su][dino]
+<i class="fa fa-camera"></i> 攝影師 Can Yu (左) 與布丁 (右) | 拍攝者：善心人士
 
 當天出席人數大約 60 幾個 (歷次報到率最高!!)，分別來自 28 家業界不同的公司。
 
@@ -41,7 +41,7 @@ tags: [event]
 這也是 Test Corner 聚會第一次由非 KKBOX 的同學主辦，謝謝涵宇讓這次的活動變得活潑有趣。
 
 ![主持人 涵宇](/images/testcorner-7/hanyu.jpg)
-<i class="fa fa-camera"></i> 涵宇正賣力地主持中 | 拍攝者：[Dino Su][dino]
+<i class="fa fa-camera"></i> 涵宇正賣力地主持中 | 拍攝者：善心人士
 
 ## Page Object in XCUITest
 
@@ -51,7 +51,7 @@ tags: [event]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RtrsPNpmGCU?rel=0&start=130&end=2670" frameborder="0" allowfullscreen></iframe>
 
 ![Mark 與 Nadia](/images/testcorner-7/mark-n-nadia.jpg)
-<i class="fa fa-camera"></i> Mark (右) 與 Nadia (左) | 拍攝者：[Dino Su][dino]
+<i class="fa fa-camera"></i> Mark (右) 與 Nadia (左) | 拍攝者：善心人士
 
 ## Jenkins & Slack 協作
 
@@ -71,7 +71,7 @@ William | 拍攝者：[Can Yu][can]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMOCyWYY-S0?rel=0&start=1847&end=2906" frameborder="0" allowfullscreen></iframe>
 
 ![Zonble 分享 Apple TV 自動化測試](/images/testcorner-7/zonble.jpg)
-<i class="fa fa-camera"></i> Zonble 正嘗試別人最不敢做的一件事 - Live Demo | 拍攝者：[Dino Su][dino]
+<i class="fa fa-camera"></i> Zonble 正嘗試別人最不敢做的一件事 - Live Demo | 拍攝者：善心人士
 
 ## 結語
 
@@ -82,7 +82,7 @@ William | 拍攝者：[Can Yu][can]
 更多活動照片在：
 
  * [活動花蕠 (Can Yu)](https://www.facebook.com/groups/test.corner/permalink/1466587910025780/)
- * [活動花蕠 (Dino Su)](https://www.facebook.com/groups/test.corner/permalink/1466577033360201/)
+ * [活動花蕠 (善心人士)](https://www.facebook.com/groups/test.corner/permalink/1466577033360201/)
 
 -- by [Jeremy Kao](https://www.facebook.com/jeremy.kao.tw)
 
@@ -90,7 +90,6 @@ William | 拍攝者：[Can Yu][can]
  [event-fb]: https://www.facebook.com/events/218813881879288/
  [hanyu]: https://www.facebook.com/ryan.chen.518
  [can]: https://www.facebook.com/canyu123
- [dino]: https://www.facebook.com/din0.su
  [chloe]: https://www.facebook.com/chloe.chen.727
  [mark]: https://www.facebook.com/Jz.Chang.Mark
  [nadia]: https://www.facebook.com/yuchieh.lin.90
