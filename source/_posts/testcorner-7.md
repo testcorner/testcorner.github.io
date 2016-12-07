@@ -55,12 +55,12 @@ tags: [event]
 
 ## Jenkins & Slack 協作
 
-> * 講者：[Willium Yin][willium] (iCHEF)
+> * 講者：[William Yin][william] (iCHEF)
 > * 投影片：[Google Slides](https://docs.google.com/presentation/d/1AMjojhXoqvdua_bYdDER6sFyh1RmzYsjg6eDyILTsV4/edit?usp=sharing)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tMOCyWYY-S0?rel=0&start=2&end=1847" frameborder="0" allowfullscreen></iframe>
 
-![Willium](/images/testcorner-7/william.jpg)
+![William](/images/testcorner-7/william.jpg)
 William | 拍攝者：[Can Yu][can]
 
 ## Apple TV 自動化測試
