@@ -12,6 +12,7 @@ tags: [video]
 * [#4 Test Corner][meetup-4]
 * [#5 Test Corner][meetup-5]
 * [#6 Test Corner X 北科大][meetup-6]
+* \#7 Test Corner 測試，不分平台 [Part-1][meetup-7-part-1], [Part-2][meetup-7-part-2]
 
 倘若影片內容有什麼不妥之處，或是關於影片你有什麼想法，還請來信告知，我們很歡迎大家用各種形式的交流，謝謝各位。
 
@@ -22,6 +23,7 @@ tags: [video]
 [meetup-4]:https://www.youtube.com/playlist?list=PLZl6gOOuv3n7VNRf39l0RnJXTptLLkBx7
 [meetup-5]:https://www.youtube.com/playlist?list=PLZl6gOOuv3n4J-B9hXmgwzG5MaHhlfDVE
 [meetup-6]:https://www.youtube.com/playlist?list=PLZl6gOOuv3n4D0fbp6c9x9rPMfo_l8E8l
-
+[meetup-7-part-1]:https://www.youtube.com/watch?v=RtrsPNpmGCU
+[meetup-7-part-2]:https://www.youtube.com/watch?v=tMOCyWYY-S0
 
 
